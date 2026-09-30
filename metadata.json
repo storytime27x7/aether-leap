@@ -1,0 +1,6 @@
+{
+  "name": "Aether Leap: 100 Realm Obstacle Odyssey",
+  "description": "An exhilarating 100-level 2D/3D action platformer and obstacle jumping game with dynamic jump, duck, prone, boss battles, character wardrobe, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
